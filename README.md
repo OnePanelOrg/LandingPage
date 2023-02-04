@@ -3,6 +3,8 @@ Landing Page for the upcoming project OnePanel
 
 OnePanel is a web application that allows users to read their favorite manga one panel at a time, providing a unique and immersive reading experience. 
 
+![](statics/preview.gif)
+
 ## Features 
 - Read manga one panel at a time
 - User account to keep track of progress
