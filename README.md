@@ -1,4 +1,7 @@
 # LandingPage
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a48ece8a-b699-45bb-8687-2b33e785d71f/deploy-status)](https://app.netlify.com/sites/onepanel/deploys)
+
 Landing Page for the upcoming project OnePanel
 
 OnePanel is a web application that allows users to read their favorite manga one panel at a time, providing a unique and immersive reading experience. 
