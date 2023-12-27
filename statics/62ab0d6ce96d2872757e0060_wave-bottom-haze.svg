@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1440px" height="56px" viewBox="0 0 1440 56" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>Waves/wave-bottom-haze</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <path d="M1440,56 L0,56 L0,35.4091149 C95.7633114,35 278.134957,56 578.778314,56 C879.421672,56 1135.89541,30.5243052 1440,31.6164191 L1440,56 Z" id="path-1"></path>
-    </defs>
-    <g id="Waves/wave-bottom-haze" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M1440,18.6164191 L1440,56 L0,56 L0,19.4091149 C115.88527,18.914036 229.081162,52 655.578314,52 C1082.07547,52 1250.37725,17.9354374 1440,18.6164191 Z" id="wave" fill="#FFFFFF" opacity="0.5"></path>
-        <path d="M1440,0.616419131 L1440,56 L0,56 L0,6.40911495 C106.226448,5.95529994 313.375622,56 623.178314,56 C932.981007,56 1268.35502,-9.23705556e-14 1440,0.616419131 Z" id="wave" fill="#FFFFFF" opacity="0.25"></path>
-        <g id="base" fill-rule="nonzero">
-            <use fill="#F5F5FC" xlink:href="#path-1"></use>
-            <use fill="#F8F8FF" xlink:href="#path-1"></use>
-        </g>
-    </g>
-</svg>
+<svg height="56" preserveAspectRatio="none" viewBox="0 0 1440 56" width="1440" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="m1440 56h-1440v-20.5908851c95.7633114-.4091149 278.134957 20.5908851 578.778314 20.5908851 300.643358 0 557.117096-25.4756948 861.221686-24.3835809z"/></defs><g fill="none" fill-rule="evenodd"><path d="m1440 18.6164191v37.3835809h-1440v-36.5908851c115.88527-.4950789 229.081162 32.5908851 655.578314 32.5908851 426.497156 0 594.798936-34.0645626 784.421686-33.3835809z" fill="#fff" opacity=".5"/><path d="m1440 .61641913v55.38358087h-1440v-49.59088505c106.226448-.45381501 313.375622 49.59088505 623.178314 49.59088505 309.802693 0 645.176706-56 816.821686-55.38358087z" fill="#fff" opacity=".25"/><g fill-rule="nonzero"><use fill="#f5f5fc" xlink:href="#a"/><use fill="#f8f8ff" xlink:href="#a"/></g></g></svg>
